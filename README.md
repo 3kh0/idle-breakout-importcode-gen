@@ -2,7 +2,7 @@
 
 This is a idle breakout import code generator. 
 
-Run this with python, or if you can get 
+Run this with python, or if you cant get it to work on your PC, host it on replit.
 
 *Replit: https://replit.com/@3kh0/Idle-breakout-import-code-generator*
 
